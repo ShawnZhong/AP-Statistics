@@ -1,7 +1,39 @@
-* [Introduction](README.md)
+# Your Book Title
 
-### Notes
+* [1.1 - Constructing & Interpreting Graphs](1.1 - Constructing & Interpreting Graphs.md)
+* [1.2 - Summarizing Distributions of Univariate Data](1.2 - Summarizing Distributions of Univariate Data.md)
+* [2.1 - Correlation & Regression](2.1 - Correlation & Regression.md)
+* [2.2 - Regression, Part II](2.2 - Regression, Part II.md)
+* [3.1 - Planning & Conducting Surveys](3.1 - Planning & Conducting Surveys.md)
+* [3.2 - Planning & Conducting Experiments](3.2 - Planning & Conducting Experiments.md)
+* [4.1 - Probability Overview](4.1 - Probability Overview.md)
+* [4.2 - Intro to Probability for Discrete Random Variables](4.2 - Intro to Probability for Discrete Random Variables.md)
+* [4.3 - Discrete Random Variables](4.3 - Discrete Random Variables.md)
+* [4.4 - Combining Independent Random Variables](4.4 - Combining Independent Random Variables.md)
+* [4.5 - Normal Random Variables](4.5 - Normal Random Variables.md)
+* [5.1 - Sampling Distributions](5.1 - Sampling Distributions.md)
+* [6.1 - Confidence Intervals](6.1 - Confidence Intervals.md)
+* [6.2 - Hypothesis Testing](6.2 - Hypothesis Testing.md)
+* [6.3 - The T Distribution](6.3 - The T Distribution.md)
+* [6.4 - Two Samples](6.4 - Two Samples.md)
+* [6.5 - Hypothesis Testing of Least-Squares Regression Line](6.5 - Hypothesis Testing of Least-Squares Regression Line.md)
+* [6.6 - Hypothesis Tests for Categorical Data (Chi-Squared Test)](6.6 - Hypothesis Tests for Categorical Data (Chi-Squared Test).md)
+* [Conditions And Assumptions](Conditions and Assumptions.md)
 
 
----
-### Problem Set
+
+* [Sample Questions](Sample Questions.md)
+* [Practice Exam Multiple Choice](Practice Exam Multiple Choice.md)
+* [2002 Multiple Choice](2002 Multiple Choice.md)
+* [2011 Free Response Form B](2011 Free Response (Form B).md)
+* [2011 Free Response](2011 Free Response.md)
+* [2012 Free Response](2012 Free Response.md)
+* [2012 Multiple Choice](2012 Multiple Choice.md)
+* [2013 Free Response](2013 Free Response.md)
+* [2014 Free Response](2014 Free Response.md)
+* [2014 Multiple Choice](2014 Multiple Choice.md)
+* [2015 Free Response](2015 Free Response.md)
+* [2015 Multiple Choice](2015 Multiple Choice.md)
+* [2016 Free Response](2016 Free Response.md)
+* [Princeton 1 Multiple Choice](Princeton 1 Multiple Choice.md)
+* [Princeton 2 Multiple Choice](Princeton 2 Multiple Choice.md)

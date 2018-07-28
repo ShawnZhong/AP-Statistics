@@ -7,3 +7,6 @@ img {
 .markdown-section ul, .markdown-section ol{
 	margin-bottom: .85em !important;
 }
+table{
+	text-align: center;
+}
