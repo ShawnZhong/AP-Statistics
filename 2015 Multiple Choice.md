@@ -38,15 +38,15 @@
 # Question 20
 
  ![Hypothesis Tests for Two Population Proportions Lower-tail test: Ho:
- PI — \> O -z Reject HO if Z \< -4 Population proportions Upper-tail
+ PI — \> O -z Reject HO if Z < -4 Population proportions Upper-tail
  test: Ho: PI — SO z Reject Ho (continued) Two-tail test: Ho: PI — P2 =
  O -z z s 'vial Microsoft Excel, 4e 0 2004 Prentice-Hall, Inc. Reject
- HO if Z \< or Chap 9-36 ](./media/image428.png)
+ HO if Z < or Chap 9-36 ](./media/image428.png)
  
  ![020.05 1.645 2 Rejection Region for Upper-Tailed Z Test (HI: p \> pc
  ) with a—O.05 ](./media/image429.png)
  
- ![Rejection Region for Lower-Tailed Z Test (HI: p \< pc ) with a 20.05
+ ![Rejection Region for Lower-Tailed Z Test (HI: p < pc ) with a 20.05
  ](./media/image430.png)
  
  ![a/2-o.025 (1/220,025 Rejection Region for Two-Tailed Z Test (HI: u u

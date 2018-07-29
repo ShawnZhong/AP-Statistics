@@ -43,7 +43,7 @@
  ![Let Y denote the number of flights Sam must make until he receives
  his first upgrade. The random variable Y follows a geometric
  distribution with p = 0.1. The probability that Sam's upgrade will
- occur after his third flight is calculated below. P(Y24) \< 3) =0.729
+ occur after his third flight is calculated below. P(Y24) < 3) =0.729
  ](./media/image347.png)
 
 # Question 3 (b)

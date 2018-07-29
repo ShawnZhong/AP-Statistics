@@ -8,8 +8,8 @@
  proportions Null Hypothesis P P Test Statistic (f—go) po (I—po ) n 2
  01 02 2 2 (DI -D2 )-O p(l—p) Distribution z z z tdistribution with the
  smaller of n—l and z Use When Normal distribution or n \> 30; o known
- n \< 30, and/or o unknown nD, 2 10 Both normal distributions, or 171,
- 30; q, known 171, \< 30; and/or q, g unknown n \< 30 pairs of data
+ n < 30, and/or o unknown nD, 2 10 Both normal distributions, or 171,
+ 30; q, known 171, < 30; and/or q, g unknown n < 30 pairs of data
  and/or o d unknown nD, 10 for each group ](./media/image268.png)
 
 # Question 18
@@ -96,7 +96,7 @@
          to support the claim that there is an association between A
          and B
 
-  -  P \< α
+  -  P < α
     
       -  We reject the null hypothesis and do have evidence to support
          the claim that there is an association between A and B

@@ -20,19 +20,19 @@
 
 # Question 6
 
- ![Two-tail Two-Tailed P-value = P (Z \< —IzolorZ \> Izol) = 2P(Z \>
+ ![Two-tail Two-Tailed P-value = P (Z < —IzolorZ \> Izol) = 2P(Z \>
  Izol) P-VaIue Approach Assume that the null hypothesis is true. The
  P-Value is the probability of observing a sample mean that is as or
  more extreme than the observed. How to compute the P-Value for each
  type of test: x—go Step 1: Compute the test statistic zo I Zol Right
  Tail Right-Tailed P-value = \> zo) The area right of zo is the P-value
  The sum of the area in the tails is the P-value l: 01 The sum of the
- area in the tails is the P-value Left Tail Left-Tailed P-value = \<
+ area in the tails is the P-value Left Tail Left-Tailed P-value = <
  zo) The area left of is the P-value ](./media/image311.png)
 
 # Question 14
 
-  -  \-1 \< r \< 1
+  -  \-1 < r < 1
 
  ![Formula for the Least Squares Regression Line (I—SRI.) LSRL Formula
  Slope and Intercept Slope: Intercept — bx Variables in Slope and

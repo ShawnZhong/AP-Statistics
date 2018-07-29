@@ -34,8 +34,8 @@
  represent the population proportion of adults similar to those in the
  study who would have developed colon cancer within the six years of
  the study if they had taken a placebo each day. The hypotheses to be
- tested are Ho : pasp pplac versus Ha : pasp \< pplac or equivalently,
- Ho : pasp O versus H : p a asp — Pplac \< O. — Pplac Step 2:
+ tested are Ho : pasp pplac versus Ha : pasp < pplac or equivalently,
+ Ho : pasp O versus H : p a asp — Pplac < O. — Pplac Step 2:
  Identifies a correct test procedure (by name or by formula) and checks
  appropriate conditions. The appropriate procedure is a two-sample
  z-test for comparing proportions. Because this is a randomized

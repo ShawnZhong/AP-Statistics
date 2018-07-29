@@ -83,7 +83,7 @@
  population mean a specified proportion of the time, typically either
  95% or 99% of the time. These intervals are referred to as 95% and 99%
  confidence intervals respectively. An example of a 95% confidence
- interval is shown below: 72.85 \< p \< 107.15 There is good reason to
+ interval is shown below: 72.85 < p < 107.15 There is good reason to
  believe that the population mean lies between these two bounds of
  72.85 and 107.15 since 95% of the time confidence intervals contain
  the true mean. If repeated samples were taken and the 95% confidence

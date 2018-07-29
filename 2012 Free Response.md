@@ -98,7 +98,7 @@
             
               -  ![C:\\6432CA65\\FE01530B-89BD-4F8B-A3E1-55F12080AD12\_files\\image168.png](./media/image168.png)
             
-              -  If the population is normally distributed, n can \< 30
+              -  If the population is normally distributed, n can < 30
         
           -  For proportions:
             
@@ -117,7 +117,7 @@
               -  Null hypothesis (H<sub>0</sub>): Parameter = \_\_\_\_
             
               -  Alternative hypothesis (H<sub>1</sub>/H<sub>a</sub>):
-                 Parameter \> or \< or ≠ \_\_\_\_\_\_
+                 Parameter \> or < or ≠ \_\_\_\_\_\_
         
           -  **C**keck conditions (RIN)
             
@@ -156,7 +156,7 @@
 
   -  **I**nterpret
 
-| p \< α | Reject the null hypothesis         | do have evidence to support the claim     |
+| p < α  | Reject the null hypothesis         | do have evidence to support the claim     |
 | ------ | ---------------------------------- | ----------------------------------------- |
 | p \> α | Fail to reject the null hypothesis | do not have evidence to support the claim |
 
@@ -251,7 +251,7 @@
  by referring to the(EEEof adult residents who are able to pass the
  test, OR by referring to the fundin of the program. Makes a correct
  onclusio that describes the lack of evidence for the alternative
- hypothesis (Ha : p \< 0.35). ](./media/image393.png)
+ hypothesis (Ha : p < 0.35). ](./media/image393.png)
 
 # Question 5 (c)
 

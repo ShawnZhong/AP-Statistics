@@ -11,7 +11,7 @@
 # Question 13
 
  ![Types of Hypothesis Tests Right-tail test Ha is more probable Ha: p
- \> value Left-tail test Ha is more probable Ha: \< value Ha is more
+ \> value Left-tail test Ha is more probable Ha: < value Ha is more
  probable Two-tail test Ha: \# value ](./media/image476.png)
 
   -  The right-tailed test is used. So there is a 5 percent area in the

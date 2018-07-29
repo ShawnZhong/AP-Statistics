@@ -96,7 +96,7 @@
  binomial distribution Binom(n, p) can be approximated by
  ](./media/image455.png)
  
- ![What if p is too small that np\<10 even when n is large • Poisson
+ ![What if p is too small that np<10 even when n is large • Poisson
  distribution can be used to approximate the binomial distribution when
  n is large np is small • where X=np. ](./media/image456.png)
 

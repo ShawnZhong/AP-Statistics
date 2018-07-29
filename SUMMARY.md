@@ -25,7 +25,7 @@
 	* [6.3 The T Distribution](6.3 - The T Distribution.md)
 	* [6.4 Two Samples](6.4 - Two Samples.md)
 	* [6.5 Hypothesis Testing of Least-Squares Regression Line](6.5 - Hypothesis Testing of Least-Squares Regression Line.md)
-	* [6.6 Hypothesis Tests for Categorical Data (Chi-Squared Test)](6.6 - Hypothesis Tests for Categorical Data (Chi-Squared Test).md)
+	* [6.6 Hypothesis Tests for Categorical Data (Chi-Squared Test)](6.6 - Hypothesis Tests for Categorical Data Chi-Squared Test.md)
 * [Conditions And Assumptions](Conditions and Assumptions.md)
 
 ---
