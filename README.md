@@ -1,4 +1,4 @@
-# [AP Statistics](https://Micro.shawnzhong.com)
+# [AP Statistics](https://stats.shawnzhong.com)
 Notes and Exercises on Advanced Placement Statistics. Your comments and criticism are greatly welcomed.
 
 I took notes based on the videos tutorials at [educator.com](https://www.educator.com/economics/ap-statistics/park/), and the past exams collected below.
