@@ -1,9 +1,7 @@
 # [AP Statistics](https://stats.shawnzhong.com)
-Notes and Exercises on Advanced Placement Statistics. Your comments and criticism are greatly welcomed.
+Notes and Exercises on Advanced Placement Statistics. I took notes based on the videos tutorials at [educator.com](https://www.educator.com/mathematics/ap-statistics/nelson/) and the past exams collected below. You can also download a PDF version of the notes   <a href="AP-Statistics.pdf"  target="_blank" >here</a>.
 
-I took notes based on the videos tutorials at [educator.com](https://www.educator.com/mathematics/ap-statistics/nelson/), and the past exams collected below.
-
-You can download a PDF version of the notes   <a href="AP-Statistics.pdf"  target="_blank" >here</a>, and please feel free to visit my website at [shawnzhong.com](https://shawnzhong.com).
+The source for the website is hosted on [GitHub](https://github.com/ShawnZhong/AP-Statistics). 
 
 # Past Exams
 
